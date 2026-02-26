@@ -1,11 +1,15 @@
-## 📊 GitHub Dashboard
+## HI!👋 I'm Alex, Frontend developer
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=enjeer&theme=github_dark" height="180"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=enjeer&theme=github_dark" height="180"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=enjeer&theme=github_dark" height="180"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=enjeer&theme=github_dark&utcOffset=0" height="180"/>
-</p>
+### Contact me
+<a href="mailto:wallesalex205@gmail.com" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/aliaksand-raudanau" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
