@@ -1,7 +1,7 @@
 ## HI!👋 I'm Alex, passionate Frontend developer from Belarus
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=enjeer&theme=dracula" height="200"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=enjeer&theme=dracula" height="200"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=enjeer" height="200"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=enjeer" height="200"/>
 </p>
 
 ### Contact me
